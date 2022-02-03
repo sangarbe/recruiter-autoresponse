@@ -25,3 +25,25 @@ I look forward to hearing from you.
 
 Demi (Alvaro Martinez de Miguel)
 ```
+
+## La autorespuesta
+
+```
+Muchas gracias por contactarme. Siempre estoy interesado en escuchar sobre nuevas oportunidades. Como desarrollador estoy seguros que podras imaginar que recibo una gran cantidad de mensajes de recruiters en LinkedIn. Es una posicion privilegiada en la que me encuentro y estoy agradecido por ello.
+
+Desgraciadamente esto implica que no tengo tiempo para atender a todo el mundo que me contacta. Muchas veces, los mensages que me llegan no son un gran fit a mi posicion o skills.
+
+Me encantaria continuar la conversacion, pero antes, necesito saber que nivel de seniority estas buscando.
+
+¿Puedes enviarme el nombre de la compañia, la descripción de la posición y, el salario y los perks del puesto para el que me estas contactando?
+
+Aunque aprecio mucho el hecho de que recruiters con talento y comprometidos me contacten de manera consistense, me llevaria toda mi jornada ordenar y filtrar oportunidades de calidad de spam sin una respuesta automatica.
+
+Sin la informacion detallada de la posicion en cuestion, no podre contestar para que sigamos con el proceso.
+
+Gracias por contatar!
+
+Quedo a la espera de tu respuesta.
+
+Demi (Alvaro Martinez de Miguel)
+```
