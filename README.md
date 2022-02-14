@@ -8,42 +8,37 @@ If you like it, please consider leaving a github star.  I think that it would be
 ## the autoresponse
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Thanks so much for reaching out. I'm always interested in hearing about new and exciting opportunities out there. 
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+However, as an experienced software engineer in current times, I get a very high volume of recruiters reaching out on LinkedIn. It's a wonderful position of privilege for me and I'm grateful for it.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+As you might imagine, it means I don't have the time to reply everyone who reaches out. In fact, most of the times, incoming messages doesn't represent a good fit.I would like to continue the conversation, but before that, I'd rather identify the level of seniority that you're looking for. 
 
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
+Can you please send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
 
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
-
-In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
+Although I really appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder. In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion. Thanks again for reaching out!
  
-I look forward to hearing from you.
+I'm looking forward to hearing from you.
 
-Demi (Alvaro Martinez de Miguel)
+Santi (Santiago Garcia Belmonte)
 ```
 
 ## La autorespuesta
 
 ```
-Muchas gracias por contactarme. Siempre estoy interesado en escuchar sobre nuevas oportunidades. Como desarrollador estoy seguros que podras imaginar que recibo una gran cantidad de mensajes de recruiters en LinkedIn. Es una posicion privilegiada en la que me encuentro y estoy agradecido por ello.
+Muchas gracias por contactarme. Siempre estoy interesado en escuchar nuevas y emocionantes oportunidades. 
 
-Desgraciadamente esto implica que no tengo tiempo para atender a todo el mundo que me contacta. Muchas veces, los mensages que me llegan no son un gran fit a mi posicion o skills.
+Sin embargo, como ingeniero de software experimentado en los tiempos que corren, recibo una gran cantidad de mensajes de reclutadores en LinkedIn. Me encuentro en una posicion de privilegio maravillosa y estoy muy agradecido por ello.
 
-Me encantaria continuar la conversacion, pero antes, necesito saber que nivel de seniority estas buscando.
+Como podrás imaginar, esto implica que no tengo tiempo para atender a todo el mundo que me contacta. De hecho, la mayoria de las veces, los mensages que me llegan no encajan bien con mi perfil. Me encantaria continuar la conversacion, pero antes, preferiría identificar que nivel de seniority estas buscando.
 
-¿Puedes enviarme el nombre de la compañia, la descripción de la posición y, el salario y los perks del puesto para el que me estas contactando?
+¿Puedes enviarme el nombre de la compañia, la descripción de la posición y, el salario junto con otros beneficios asociados al puesto para el que me estas contactando?
 
-Aunque aprecio mucho el hecho de que recruiters con talento y comprometidos me contacten de manera consistense, me llevaria toda mi jornada ordenar y filtrar oportunidades de calidad de spam sin una respuesta automatica.
+Aunque sin lugar a dudas aprecio el hecho de que reclutadores con talento y comprometidos me contacten de manera consistente, sería un trabajo a jornada completa ordenar y filtrar oportunidades de calidad del resto sin una respuesta automática. Sin la información detallada de la posicion en cuestion, no podre estar disponible para que sigamos con el proceso. 
 
-Sin la informacion detallada de la posicion en cuestion, no podre contestar para que sigamos con el proceso.
-
-Gracias por contatar!
+Gracias de nuevo por contatar.
 
 Quedo a la espera de tu respuesta.
 
-Demi (Alvaro Martinez de Miguel)
+Santi (Santiago Garcia Belmonte)
 ```
